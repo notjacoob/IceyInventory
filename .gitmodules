@@ -1,0 +1,6 @@
+[submodule "CST-391-Milestone-Express"]
+	path = CST-391-Milestone-Express
+	url = https://github.com/notjacoob/CST-391-Milestone-Express
+[submodule "CST-391-Milestone-Angular"]
+	path = CST-391-Milestone-Angular
+	url = https://github.com/notjacoob/CST-391-Milestone-Angular
