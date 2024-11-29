@@ -4,3 +4,6 @@
 [submodule "CST-391-Milestone-Angular"]
 	path = CST-391-Milestone-Angular
 	url = https://github.com/notjacoob/CST-391-Milestone-Angular
+[submodule "CST-391-Milestone-React"]
+	path = CST-391-Mielstone-React
+	url = https://github.com/notjacoob/CST-391-Milestone-React
