@@ -1,9 +1,9 @@
-[submodule "CST-391-Milestone-Express"]
-	path = CST-391-Milestone-Express
-	url = https://github.com/notjacoob/CST-391-Milestone-Express
-[submodule "CST-391-Milestone-Angular"]
-	path = CST-391-Milestone-Angular
-	url = https://github.com/notjacoob/CST-391-Milestone-Angular
-[submodule "CST-391-Milestone-React"]
-	path = CST-391-Milestone-React
-	url = https://github.com/notjacoob/CST-391-Milestone-React
+[submodule "IceyInventory-Express"]
+	path = IceyInventory-Express
+	url = https://github.com/notjacoob/IceyInventory-Express
+[submodule "IceyInventory-Angular"]
+	path = IceyInventory-Angular
+	url = https://github.com/notjacoob/IceyInventory-Angular
+[submodule "IceyInventory-React"]
+	path = IceyInventory-React
+	url = https://github.com/notjacoob/IceyInventory-React
