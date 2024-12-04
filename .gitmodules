@@ -1,0 +1,9 @@
+[submodule "IceyInventory-Angular"]
+	path = IceyInventory-Angular
+	url = https://github.com/notjacoob/IceyInventory-Angular.git
+[submodule "IceyInventory-Express"]
+	path = IceyInventory-Express
+	url = https://github.com/notjacoob/IceyInventory-Express.git
+[submodule "IceyInventory-React"]
+	path = IceyInventory-React
+	url = https://github.com/notjacoob/IceyInventory-React.git
